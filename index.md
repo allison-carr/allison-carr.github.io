@@ -1,12 +1,12 @@
 ## Academic Portfolio
-Please check back soon for more updated projects! 
+Please return soon for more updated projects! 
 
 ---
 
-### Category Name 1 
+### Lancaster County, PA Urban Growth Boundary Study 
 
-[Project 1 Title](/Carr_Allison_SpatialRisk)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam euismod mi at eros elementum, non ultrices orci accumsan. Morbi purus nisi, tincidunt eget odio in, malesuada ullamcorper sapien. Sed eget nunc in ante finibus mattis non a metus. Donec sodales sem eu purus lobortis, eu faucibus magna volutpat. Duis rutrum enim quis porttitor tristique. ](/pdf/lancaster_report.pdf)
+<img src="images/lancaster_thumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

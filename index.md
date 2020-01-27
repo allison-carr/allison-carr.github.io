@@ -1,10 +1,11 @@
-## Portfolio
+## Academic Portfolio
+Please check back soon for more updated projects! 
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/Carr_Allison_SpatialRisk)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

@@ -3,7 +3,7 @@ Please return soon for more updated projects!
 
 ---
 
-### Lancaster County, PA Urban Growth Boundary Study 
+### [Lancaster County, PA Urban Growth Boundary Study](/pdf/lancaster_report.pdf) 
 
 [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam euismod mi at eros elementum, non ultrices orci accumsan. Morbi purus nisi, tincidunt eget odio in, malesuada ullamcorper sapien. Sed eget nunc in ante finibus mattis non a metus. Donec sodales sem eu purus lobortis, eu faucibus magna volutpat. Duis rutrum enim quis porttitor tristique. ](/pdf/lancaster_report.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
